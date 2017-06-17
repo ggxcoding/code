@@ -1,2 +1,2 @@
-# java
-java 仓库
+# code
+代码仓库
